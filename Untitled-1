@@ -1,0 +1,74 @@
+<div class="row">
+                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 producto">
+                    <img src="img/libro1.jpg" alt="books">
+                    <h3 class="text-primary text-center">
+                        Book 1
+                    </h3>
+                    <button type="button" class="btn btn-primary active btn-default">
+				Buy
+			</button>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 producto">
+                    <img src="img/libro2.jpg" alt="books">
+                    <h3 class="text-primary text-center">
+                        Book 2
+                    </h3>
+                    <button type="button" class="btn btn-primary">
+				Buy
+			</button>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 producto">
+                    <img src="img/libro3.jpg" alt="books">
+                    <h3 class="text-center text-primary">
+                        Book 3
+                    </h3>
+                    <button type="button" class="btn btn-primary">
+				Buy
+			</button>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 producto">
+                    <img src="img/libro4.jpg" alt="books">
+                    <h3 class="text-center text-primary">
+                        Book 4
+                    </h3>
+                    <button type="button" class="btn btn-primary">
+				Buy
+			</button>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 producto">
+                    <img src="img/libro5.jpg" alt="books">
+                    <h3 class="text-primary text-center">
+                        Book 5
+                    </h3>
+                    <button type="button" class="btn btn-primary">
+				Buy
+			</button>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 producto">
+                    <img src="img/libro6.jpg" alt="books">
+                    <h3 class="text-primary text-center">
+                        Book 6
+                    </h3>
+                    <button type="button" class="btn btn-primary">
+				Buy
+			</button>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 producto">
+                    <img src="img/libro7.jpg" alt="books">
+                    <h3 class="text-primary text-center">
+                        Book 7
+                    </h3>
+                    <button type="button" class="btn btn-primary">
+				Buy
+			</button>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 producto">
+                    <img src="img/libro8.jpg" alt="books">
+                    <h3 class="text-primary text-center">
+                        Book 8
+                    </h3>
+                    <button type="button" class="btn btn-primary">
+				Buy
+			</button>
+                </div>
+            </div>

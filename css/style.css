@@ -1,0 +1,42 @@
+/*this block of code is used for the products shown in the container.*/
+
+.product {
+    padding: 30px 10px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+
+.product img {
+    height: 250px;
+}
+
+.product h3 {
+    height: 50px;
+}
+
+.shopingCart {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 30px;
+}
+
+
+/*this block of code is used for the tables.*/
+
+#tableProduct {
+    text-align: center;
+}
+
+
+th {
+    text-align: center;
+    background-color: #66b3ff;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.buyBtn:hover {
+    background-color: burlywood;
+}

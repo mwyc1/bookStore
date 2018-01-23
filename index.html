@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Online Book Store</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <h1>
+                    Buy Books Online
+                </h1>
+            </div>
+        </div>
+
+
+        <div id="bookContainer">
+
+        </div>
+
+
+        <div class="row">
+            <div class="shopingCart col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <h3>
+                    Shopping Cart :
+                </h3>
+            </div>
+        </div>
+
+
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                <table class="table table-striped table-bordered" id="tableProduct">
+                </table>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                <table class="table table-condensed table-bordered">
+                    <tbody>
+					<tr>
+						<td>
+							Total Purchase :
+						</td>
+						<td id="total_purchase">
+							0.00 €
+						</td>
+						
+					</tr>
+					<tr class="active">
+						<td>
+							Discount :
+						</td>
+						<td id="discount_purchase">
+							0.00 € (0%)
+						</td>
+						
+					</tr>
+					<tr class="active">
+						<td>
+							VAT :
+						</td>
+						<td id="iva_purchase">
+							0.00 € (21%)
+						</td>
+					</tr>
+					<tr class="success total">
+						<td>
+							Grand Total :
+						</td>
+						<td id="super_total">
+							0.00 €
+						</td>
+						
+					</tr>
+				</tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/scripts.js"></script>
+</body>
+
+</html>
